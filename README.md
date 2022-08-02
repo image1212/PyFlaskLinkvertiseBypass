@@ -7,3 +7,8 @@
 - ex. localhost/00000/name/1 
 - 자동으로 리다이렉트됨
 - automatically redirected
+
+- 1.2 업데이트
+- 1.2 upadate
+- linkvertise.icu로 접속시 메인페이지 추가 
+- Added main page when connecting to linkvertise.icu
